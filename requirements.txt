@@ -1,0 +1,4 @@
+# Kraken Sentinel — Python dependencies
+# Kraken CLI binary installed separately (see README)
+anthropic>=0.25.0
+rich>=13.0
